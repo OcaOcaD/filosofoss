@@ -1,0 +1,14 @@
+@import '../../AlgoritmoFilosofos/variables';
+.cubierto{
+    height: 65px;
+    width: 30px;
+    // border: 1px solid grey;
+    margin: 20px;
+    img{
+        max-width: 100%;
+        max-height: auto;
+    }
+}
+.utilizado{
+    border: 5px solid greenyellow;
+}
